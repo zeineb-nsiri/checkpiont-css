@@ -1,0 +1,54 @@
+.test{
+  background-color: rgb(180, 95, 95);
+   padding: 10px;
+   
+  } 
+
+
+
+.testt {
+  background-color: rgb(200, 160, 160);
+    padding: 10px;
+    text-align: right;
+  }
+ul  {
+    background-color: rgb(200, 160, 160);
+      padding: 10px;
+      text-align: left;
+    }
+
+
+li {
+  background-color: rgb(223, 189, 189);
+  color: black;
+  margin: 5px;
+  list-style-type: none;
+  display: inline-block;
+}  
+
+a {
+  color: black;
+  background-color: rgb(200, 160, 160);
+}
+
+@font-face {
+  font-family: "roboto";
+  src: url(index.html);
+
+}
+
+h1 {
+  font-family: Helvetica neue, roboto;
+ 
+}
+
+h2 {
+  font-family: Helvetica neue, roboto;
+  font-size: 20px;
+}
+
+.heyy{
+  background-color: rgb(180, 95, 95);
+   padding: 10px;
+   
+  } 
